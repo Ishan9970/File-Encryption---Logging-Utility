@@ -1,0 +1,14 @@
+# === Core Dependencies ===
+streamlit>=1.35.0          # Web UI framework
+cryptography>=42.0.0       # AES encryption and padding
+pyotp>=2.9.0               # TOTP 2FA (Time-based OTP)
+qrcode>=7.4.2              # Generate QR codes for TOTP
+pillow>=10.0.0             # Image support for QR codes
+
+# === Optional / Standard Library Notes ===
+# zlib and hashlib are used but part of Python's standard library
+# No need to install separately
+
+# === Version Control ===
+# It's safe to remove version specifiers if you prefer latest versions always:
+# Example: streamlit, cryptography, pyotp, qrcode, pillow
