@@ -1,16 +1,3 @@
-Here’s a complete and well-structured **`README.md`** for your GitHub repository based on the Streamlit-based secure file tool you’ve developed. This documentation includes:
-
-* Project overview
-* Features
-* Installation instructions
-* How to use
-* Security notes
-* File structure
-* License placeholder
-
-You can copy and save this as your `README.md` file in your GitHub repository:
-
----
 
 # 🔐 Secure File Tool with TOTP, AES Encryption & Logging
 
